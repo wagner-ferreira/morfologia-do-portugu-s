@@ -1,2 +1,2 @@
 # morfologia-do-portugu-s
-Análise de flexão nominal e verbal do português
+Análise de flexão nominal e verbal do português. Os notebooks visam ao público acadêmico que precisa aprender a analisar as palavras em termos estruturais. Nesse sentido, os notebooks apresentam funções que analisam as palavras, segmentando-as e classificando suas partes constituintes, e devolvem o diagrama arbóreo de sua estrutura interna. Contudo, o entendimento desses processos requer dos interessados algum grau de leitura acerca do assunto. Muitos conceitos que aparecem na descrição são implícitos e o leitor precisa ser capaz de identificá-los caso queira aproveitar as informações geradas em sua plenitude.   
